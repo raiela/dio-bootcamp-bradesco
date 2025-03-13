@@ -5,10 +5,9 @@ Cada desafio foi implementado em uma branch separada. Para visualizar um desafio
 ## 🛠 Como Clonar e Acessar um Desafio  
 
 ### 🔹 Baixar o Repositório Completo  
-
 1. **Clone o repositório:**  
    ```bash
-   git clone https://github.com/seu-usuario/desafios-bootcamp-bradesco.git
+   git clone https://github.com/seu-usuario/dio-bootcamp-bradesco.git
 
 2. Acesse o diretório do projeto:
 ```bash
@@ -28,5 +27,5 @@ Cada desafio foi implementado em uma branch separada. Para visualizar um desafio
 ### Baixar Apenas uma Branch Específica
 Se você quiser baixar apenas uma branch específica, sem precisar clonar o repositório inteiro, use:
 ```bash
-git clone --single-branch --branch nome-da-branch https://github.com/seu-usuario/desafios-bootcamp-bradesco.git
+git clone --single-branch --branch nome-da-branch https://github.com/seu-usuario/dio-bootcamp-bradesco.git
 
